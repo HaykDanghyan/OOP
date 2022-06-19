@@ -1,0 +1,4 @@
+This is a homework
+of System Programming
+by Picsart Academy student
+Hayk Danghyan
